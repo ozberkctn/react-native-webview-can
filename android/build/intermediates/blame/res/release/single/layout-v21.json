@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/ozberkcetin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd6d7293e9ecfaa820eef9958fa8e93c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ozberkcetin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd6d7293e9ecfaa820eef9958fa8e93c/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ozberkcetin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd6d7293e9ecfaa820eef9958fa8e93c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ozberkcetin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fd6d7293e9ecfaa820eef9958fa8e93c/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

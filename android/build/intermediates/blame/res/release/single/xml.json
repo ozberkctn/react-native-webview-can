@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/ozberkcetin/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/6e3325fd947a70c8bab40ea181b0c89e/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/build/intermediates/res/merged/release/xml/file_provider_paths.xml",
+        "source": "/Users/ozberkcetin/Desktop/MyProjects/CanYayinlari/TrendekiYabanci/node_modules/react-native-webview/android/src/main/res/xml/file_provider_paths.xml"
+    }
+]
